@@ -1,14 +1,11 @@
 ### Hey! Tomas here. 👋
 
-I'm a Project Lead Full-stack Software Engineer at OAK'S LAB. I'm currently working in Javascript Tech-stack, but I'm also experienced with PHP. My passion is animations and making delightful website, that will please the eyes.
-
-![OAK'S LAB](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+I'm a Project Lead Full-stack Software Engineer at OAK'S LAB. I'm currently working in Javascript Tech-stack, but I'm also experienced in PHP. My passion is animations and making delightful website, that will please the eyes.
 
 
 ### Tech
 
-On day to day basis I'm using:
+###### On day to day basis I'm using:
 
 * [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces
 * [GraphQL](https://graphql.org/) - A query language for an API
@@ -16,21 +13,20 @@ On day to day basis I'm using:
 * [Apollo-Client & Apollo-Server](https://www.apollographql.com/) - Produuction ready GraphQL Client & Server 
 * [Google Cloud Platform](https://cloud.google.com/gcp/) - For hosting on a global scale & easily managable.
 * [Typescript](https://www.typescriptlang.org/) - Typed superset of JavaScript that compiles to plain JavaScript
+* [Github Actions](https://github.com/features/actions) - Automated workflows running on Github ❤️
 
-### 
+
+###### I've also encountered and I've worked with:
+
+* [PHP](https://www.php.net/) - General-purpose scripting language suitable for webdevelopment
+* [Elastic](https://www.elastic.co/) - Search engine supporting FullText
+* [Redis](https://redis.io/) - In-memory data structure store
+* [Nette Framework](https://nette.org/) - PHP Framework
+* [Symfony](https://symfony.com/) - PHP Framework
 
 
-<!--
-**thylsky/thylsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### How to reach me? 
 
-Here are some ideas to get you started:
+Currently I'm occupied on full-time. But if you want to reach me anyway, you can find me on following social medias / e-mail address:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="./facebook.svg" alt="Facebook" width="50" height="50" />](https://www.facebook.com/thylsky)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./instagram.svg" alt="Instagram" width="50" height="50" />](https://instagram.com/thylsky)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./twitter.svg" alt="Twitter" width="50" height="50" />](https://twitter.com/thylsky)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./linkedin.svg" alt="LinkedIn" width="50" height="50" />](https://linkedin.com/thylsky)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./gmail.svg" alt="Gmail" width="50" height="50" />](mailto:thylsky@gmail.com)
