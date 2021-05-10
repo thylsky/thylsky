@@ -1,6 +1,6 @@
 ### Hey! Tomas here. 👋
 
-I'm a Project Lead Full-stack Software Engineer at OAK'S LAB. I'm currently working in Javascript Tech-stack, but I'm also experienced in PHP. My passion is animations and making delightful website, that will please the eyes.
+I'm a Full Stack Software Engineer. Currently I'm working at the Heureka Group s.r.o. I'm currently working in Javascript Tech-stack, but I'm also experienced in PHP. My passion is animations and making delightful website, that will please the eyes.
 
 
 ### Tech
